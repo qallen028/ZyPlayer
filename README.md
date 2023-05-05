@@ -56,6 +56,7 @@
 | 🖥️ 电脑端旧 ( Windows & Mac & Linux )  | [ZY Player Old](https://github.com/Hunlongyu/ZY-Player)     |
 | 🖥️ 电脑端新 ( Windows & Mac & Linux )  | [ZY Player New](https://github.com/Hiram-Wong/ZyPlayer)     |
 | 📱 官方手机端 ( Android & IOS )            | [ZY Player APP](https://github.com/Hunlongyu/ZY-Player-APP) |
+| 📱 手机端 ( Android )            | [永恒国度](https://github.com/qallen028/ZyPlayer) |
 | 📺 电视端 ( Android & Mac ) ( 进行中 ) | [ZY Player TV](https://github.com/cuiocean/ZY-Player-TV)    |
 | 🌐 浏览器 ( Web )                      | [ZY Player Web](https://github.com/Hunlongyu/ZY-Player-Web) |
 
