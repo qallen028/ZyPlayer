@@ -18,7 +18,9 @@
 
 - 平台支持 Android
 - 适配黑暗模式
-- 支持资源站 cms（json 接口）
+- 支持资源站 cms（json和xml 接口）
+- 内置资源站
+- 支持直播源 genre m3u 
 - ...
 
 ### 🌴 声明
@@ -30,10 +32,11 @@
 
 ### 🧤 格式
 
-> 一键格式
+> 资源站格式
 ```json
 [
   {
+        "id":"12",
         "key": "麻花资源",
         "name": "麻花资源",
         "api": "https://api.1080zyku.com/inc/apijson.php",
@@ -45,6 +48,22 @@
         "method": "post",
         "format": "json",
         "searchable": true
+    }
+  ]
+```
+> 直播源格式
+```json
+[
+  {
+        "id":"12",
+        "key": "Ray直播",
+        "name": "Ray直播",
+        "url": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+        "epg": "http://epg.112114.xyz",
+        "group": "默認",
+        "isActive": true,
+        "status": true,
+        "method": "get"
     }
   ]
 ```
@@ -68,6 +87,6 @@
 |                           影视 (播放)                           |                             影视 (介绍)                             |
 | ![影视播放](https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230505-163855.png) |   ![影视详情](https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230505-163843.png)   |
 |                          直播(首页)                           |                                直播(播放)                            |
-|  ![直播首页](https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230505-163921.png) |  ![直播播放](https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230505-163928.png)   |
+|  ![直播首页](https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230517-112725.png) |  ![直播播放](https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230517-112957.png)   |
 |                            历史记录                             |                                收藏                                 |
 | ![历史.png](https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230505-163953.png) |     ![收藏](https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230505-164000.png)     |
