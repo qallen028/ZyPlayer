@@ -10,6 +10,10 @@
 
 <h1 align="center">永恒国度</h1>
 
+### Todo
+
+源码关联太多的后端部分，同时也不想影响自己的服务器，所以不太方便放出
+
 ### Introduction
 
 基于 uniapp 开发。
