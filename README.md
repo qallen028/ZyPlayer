@@ -83,10 +83,10 @@
 
 |                           影视 (首页)                           |                             影视 (搜索)                             |
 | :-------------------------------------------------------------: | :-----------------------------------------------------------------: |
-| ![影视.png](https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230505-163836.png) | ![影视搜素.png](https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230505-163909.png) |
+| ![影视.png](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230505-163836.png) | ![影视搜素.png](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230505-163909.png) |
 |                           影视 (播放)                           |                             影视 (介绍)                             |
-| ![影视播放](https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230505-163855.png) |   ![影视详情](https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230505-163843.png)   |
+| ![影视播放](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230505-163855.png) |   ![影视详情](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230505-163843.png)   |
 |                          直播(首页)                           |                                直播(播放)                            |
-|  ![直播首页](https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230517-112725.png) |  ![直播播放](https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230517-112957.png)   |
+|  ![直播首页](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230517-112725.png) |  ![直播播放](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230517-112957.png)   |
 |                            历史记录                             |                                收藏                                 |
-| ![历史.png](https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230505-163953.png) |     ![收藏](https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230505-164000.png)     |
+| ![历史.png](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230505-163953.png) |     ![收藏](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230505-164000.png)     |
