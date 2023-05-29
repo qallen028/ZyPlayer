@@ -34,6 +34,18 @@
 - 该软件为空壳播放器，不带源。
 - 该软件部分代码参考[ZY-Player-APP](https://github.com/cuiocean/ZY-Player-APP)
 
+### 🎠 平台
+
+| 平台                                   | 链接                                                        |
+| :------------------------------------- | :---------------------------------------------------------- |
+| 🖥️ 电脑端旧 ( Windows & Mac & Linux )  | [ZY Player Old](https://github.com/Hunlongyu/ZY-Player)     |
+| 🖥️ 电脑端新 ( Windows & Mac & Linux )  | [ZY Player New](https://github.com/Hiram-Wong/ZyPlayer)     |
+| 📱 官方手机端 ( Android & IOS )            | [ZY Player APP](https://github.com/Hunlongyu/ZY-Player-APP) |
+| 📱 手机端 ( Android )            | [永恒国度](https://github.com/qallen028/ZyPlayer) |
+| 📺 电视端 ( Android & Mac ) ( 进行中 ) | [ZY Player TV](https://github.com/cuiocean/ZY-Player-TV)    |
+| 🌐 浏览器 ( Web )                      | [ZY Player Web](https://github.com/Hunlongyu/ZY-Player-Web) |
+
+
 ### 🧤 格式
 
 > 资源站格式
@@ -71,17 +83,10 @@
     }
   ]
 ```
+ 
 
-### 🎠 平台
-
-| 平台                                   | 链接                                                        |
-| :------------------------------------- | :---------------------------------------------------------- |
-| 🖥️ 电脑端旧 ( Windows & Mac & Linux )  | [ZY Player Old](https://github.com/Hunlongyu/ZY-Player)     |
-| 🖥️ 电脑端新 ( Windows & Mac & Linux )  | [ZY Player New](https://github.com/Hiram-Wong/ZyPlayer)     |
-| 📱 官方手机端 ( Android & IOS )            | [ZY Player APP](https://github.com/Hunlongyu/ZY-Player-APP) |
-| 📱 手机端 ( Android )            | [永恒国度](https://github.com/qallen028/ZyPlayer) |
-| 📺 电视端 ( Android & Mac ) ( 进行中 ) | [ZY Player TV](https://github.com/cuiocean/ZY-Player-TV)    |
-| 🌐 浏览器 ( Web )                      | [ZY Player Web](https://github.com/Hunlongyu/ZY-Player-Web) |
+<details>
+<summary>展开查看软件截图</summary>
 
 ### 🎨 截图
 
@@ -94,3 +99,5 @@
 |  ![直播首页](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230517-112725.png) |  ![直播播放](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230517-112957.png)   |
 |                            历史记录                             |                                收藏                                 |
 | ![历史.png](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230505-163953.png) |     ![收藏](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230505-164000.png)     |
+  
+    </details>
