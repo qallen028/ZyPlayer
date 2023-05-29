@@ -22,9 +22,9 @@
 
 - 平台支持 Android
 - 适配黑暗模式
-- 支持资源站 cms（json和xml 接口）
-- 内置资源站
-- 支持直播源 genre m3u 
+- 支持资源站 cms接口（json格式 xml格式）
+- 支持直播源 genre m3u
+- 多种播放器 (西瓜视频播放器 腾讯云播放器)
 - ...
 
 ### 🌴 声明
@@ -33,17 +33,6 @@
 - 该软件仅供学习交流使用，禁止个人用于非法商业用途, 请于安装后 24 小时内删除.
 - 该软件为空壳播放器，不带源。
 - 该软件部分代码参考[ZY-Player-APP](https://github.com/cuiocean/ZY-Player-APP)
-
-### 🎠 平台
-
-| 平台                                   | 链接                                                        |
-| :------------------------------------- | :---------------------------------------------------------- |
-| 🖥️ 电脑端旧 ( Windows & Mac & Linux )  | [ZY Player Old](https://github.com/Hunlongyu/ZY-Player)     |
-| 🖥️ 电脑端新 ( Windows & Mac & Linux )  | [ZY Player New](https://github.com/Hiram-Wong/ZyPlayer)     |
-| 📱 官方手机端 ( Android & IOS )            | [ZY Player APP](https://github.com/Hunlongyu/ZY-Player-APP) |
-| 📱 手机端 ( Android )            | [永恒国度](https://github.com/qallen028/ZyPlayer) |
-| 📺 电视端 ( Android & Mac ) ( 进行中 ) | [ZY Player TV](https://github.com/cuiocean/ZY-Player-TV)    |
-| 🌐 浏览器 ( Web )                      | [ZY Player Web](https://github.com/Hunlongyu/ZY-Player-Web) |
 
 
 ### 🧤 格式
