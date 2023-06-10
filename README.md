@@ -2,7 +2,6 @@
 <img width="128" src="https://raw.githubusercontent.com/qallen028/ZyPlayer/main/logo.png" >
 </p>
 <p align="center">
-<a href="http://zyplayer.fun/" target="_blank">官网</a>
 <a href="https://github.com/qallen028/ZyPlayer/issues" target="_blank">反馈</a>
 <a href="https://github.com/qallen028/ZyPlayer/releases" target="_blank">下载</a>
 <a href="https://wwza.lanzouo.com/b04duy3xi" target="_blank">网盘下载【密码：c3nr】</a>
@@ -10,15 +9,15 @@
 
 <h1 align="center">永恒国度</h1>
 
-### Todo
+### 备注
 
 源码关联太多的后端部分，同时也不想影响自己的服务器，所以不太方便放出
 
-### Introduction
+### 描述
 
 基于 uniapp 开发。
 
-🎨 已有功能
+### 功能
 
 - 平台支持 Android
 - 适配黑暗模式
@@ -27,15 +26,13 @@
 - 多种播放器 (西瓜视频播放器 腾讯云播放器)
 - ...
 
-### 🌴 声明
+### 声明
 
 - 请大家支持正版. 所有资源来自网上, 该软件不参与任何制作, 上传, 储存等内容, 禁止传播违法资源.
 - 该软件仅供学习交流使用，禁止个人用于非法商业用途, 请于安装后 24 小时内删除.
-- 该软件为空壳播放器，不带源。
-- 该软件部分代码参考[ZY-Player-APP](https://github.com/cuiocean/ZY-Player-APP)
 
 
-### 🧤 格式
+### 格式
 
 > 资源站格式
 ```json
@@ -72,12 +69,9 @@
     }
   ]
 ```
- 
 
-<details>
-<summary>展开查看软件截图</summary>
 
-### 🎨 截图
+###  截图
 
 |                           影视 (首页)                           |                             影视 (搜索)                             |
 | :-------------------------------------------------------------: | :-----------------------------------------------------------------: |
@@ -88,5 +82,4 @@
 |  ![直播首页](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230517-112725.png) |  ![直播播放](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230517-112957.png)   |
 |                            历史记录                             |                                收藏                                 |
 | ![历史.png](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230505-163953.png) |     ![收藏](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230505-164000.png)     |
-  
-    </details>
+ 
