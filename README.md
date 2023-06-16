@@ -38,17 +38,17 @@
 ```json
 [
   {
-        "id":"12",
-        "key": "麻花资源",
-        "name": "麻花资源",
-        "api": "https://api.1080zyku.com/inc/apijson.php",
+        "key": "闪电资源",
+        "name": "闪电资源",
+        "api": "https://sdzyapi.com/api.php/provide/vod/at/xml/",
+        "download": "",
         "jiexiUrl": "",
         "group": "影视",
         "isActive": true,
         "reverseOrder": false,
-        "status": "可用",
+        "status": true,
         "method": "post",
-        "format": "json",
+        "format": "xml",
         "searchable": true
     }
   ]
