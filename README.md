@@ -74,13 +74,23 @@
 
 ###  截图
 
-|                           影视 (首页)                           |                             影视 (搜索)                             |
-| :-------------------------------------------------------------: | :-----------------------------------------------------------------: |
-| ![影视.png](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230505-163836.png) | ![影视搜素.png](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230505-163909.png) |
-|                           影视 (播放)                           |                             影视 (介绍)                             |
-| ![影视播放](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230505-163855.png) |   ![影视详情](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230505-163843.png)   |
-|                          直播(首页)                           |                                直播(播放)                            |
-|  ![直播首页](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230517-112725.png) |  ![直播播放](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230517-112957.png)   |
-|                            历史记录                             |                                收藏                                 |
-| ![历史.png](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230505-163953.png) |     ![收藏](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230505-164000.png)     |
+| 登录 （登录可以使用备份功能） | 影视 | 搜索 |
+| :-----------------------------------: | :--: |:---: |
+| ![登录](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-143044.png) | ![影视](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-143143.png) | ![搜索](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-144457.png) |
+| 豆瓣热门|影视源切换|影视简介|
+|  ![豆瓣热门](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-143154.png) | ![影视源切换](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-143205.png) | ![影视简介](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-143218.png) |
+| 快速搜索和为你推荐 | 影视播放 | 多种播放器切换 |
+|  ![快速搜索和为你推荐](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-143242.png) | ![影视播放](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-143302.png) | ![多种播放器切换](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-145005.png) |
+| 海报分享 | 快速切换集数 | 电视直播 |
+| ![海报分享](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-143353.png) | ![快速切换集数](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-143409.png) | ![电视直播](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-143424.png) |
+| 电视直播源切换 | 电视直播播放 | 用户中心 |
+| ![电视直播源切换](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-143430.png) | ![电视直播播放](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-143447.png) | ![用户中心](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-143556.png) |
+| 历史记录 | 个人收藏 | 配置备份 
+| ![历史记录](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-143622.png) | ![个人收藏](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-143629.png) | ![配置备份](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-143640.png) |
+| 配置备份还原 | 影视源配置 | 添加影视源 |
+| ![配置备份还原](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-143647.png) | ![影视源配置](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-143701.png) | ![添加影视源](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-143709.png) |
+| 电视直播源配置 | 添加电视直播源 | 设置 |
+| ![电视直播源配置](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-143726.png) | ![添加电视直播源](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-143731.png) | ![设置](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-143744.png) |
+| 深色模式 | 我的反馈 | 反馈 |
+| ![添加电视直播源](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-144009.png) | ![我的反馈](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-144049.png) | ![反馈](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-144114.png) |
  
