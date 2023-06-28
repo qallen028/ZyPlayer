@@ -4,7 +4,7 @@
 <p align="center">
 <a href="https://github.com/qallen028/ZyPlayer/issues" target="_blank">反馈</a>
 <a href="https://github.com/qallen028/ZyPlayer/releases" target="_blank">下载</a>
-<a href="https://wwza.lanzoup.com/iOFNA10ge11e" target="_blank">蓝奏云</a>【密码：1eiw】
+<a href="https://wwza.lanzoup.com/i2ToI10o0dod" target="_blank">蓝奏云</a>【密码：1uh8】
 <a href="https://fast.uc.cn/s/ff2d76159d204" target="_blank">UC网盘</a>【密码：AWKA】
 </p>
 
