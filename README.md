@@ -4,7 +4,6 @@
 <p align="center">
 <a href="https://github.com/qallen028/ZyPlayer/issues" target="_blank">反馈</a>
 <a href="https://github.com/qallen028/ZyPlayer/releases" target="_blank">下载</a>
-<a href="https://wwza.lanzoup.com/b04duy3xi" target="_blank">蓝奏云</a>【密码：c3nr】
 <a href="https://fast.uc.cn/s/ff2d76159d204" target="_blank">UC网盘</a>【密码：AWKA】
 </p>
 
@@ -71,8 +70,8 @@
   ]
 ```
 
-
-###  截图
+<details>
+<summary>截图</summary>
 
 | 登录 （登录可以使用备份功能） | 影视 | 搜索 |
 | :-----------------------------------: | :--: |:---: |
@@ -93,4 +92,5 @@
 | ![电视直播源配置](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-143726.png) | ![添加电视直播源](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-143731.png) | ![设置](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-143744.png) |
 | 深色模式 | 我的反馈 | 反馈 |
 | ![添加电视直播源](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-144009.png) | ![我的反馈](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-144049.png) | ![反馈](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-144114.png) |
- 
+
+ </details>
