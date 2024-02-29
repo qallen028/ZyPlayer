@@ -1,10 +1,6 @@
 <p align="center">
 <img width="128" src="https://raw.githubusercontent.com/qallen028/ZyPlayer/main/logo.png" >
 </p>
-<p align="center">
-<a href="https://fast.uc.cn/s/ff2d76159d204" target="_blank">网盘下载</a>【密码：AWKA】
-</p>
-
 <h1 align="center">永恒国度</h1>
 
 ### 备注
