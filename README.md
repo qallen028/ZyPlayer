@@ -15,7 +15,7 @@
 
 - 平台支持 Android
 - 适配黑暗模式
-- 支持资源站 cms接口（json格式 xml格式）
+- 支持资源站 cms接口 v3App接口 v1App接口
 - 支持直播源 genre m3u
 - 多种播放器 
 - ...
@@ -32,18 +32,20 @@
 ```json
 [
   {
-        "key": "闪电资源",
-        "name": "闪电资源",
-        "api": "https://sdzyapi.com/api.php/provide/vod/at/xml/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影视",
-        "isActive": true,
-        "reverseOrder": false,
-        "status": true,
-        "method": "post",
-        "format": "xml",
-        "searchable": true
+        "key": "淘片资源",// 唯一标识
+        "name": "淘片资源",// 名称
+        "api": "https://taopianapi.com/cjapi/mc10/vod/json/m3u8.html", // 请求接口
+        "download": "",// 原zy遗留，已弃用
+        "jiexiUrl": "",// 解析接口，会在播放地址前自动拼接
+        "group": "json",// 分组
+        "isActive": true,// 是否启用
+        "reverseOrder": false,// 原zy遗留，已弃用
+        "status": true,// 可用状态
+        "method": "get",// 请求方式，get或post
+        "format": "json",// 接口返回的格式
+        "searchable": true,// 是否允许搜索
+        "categories": "",// 自定义分类，控制分类的显示和排序
+        "rmadUrl":""// 广告插槽接口,会在播放器显示去广告图标
     }
   ]
 ```
@@ -51,20 +53,59 @@
 ```json
 [
   {
-        "id":"12",
-        "key": "Ray直播",
-        "name": "Ray直播",
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
-        "epg": "http://epg.112114.xyz",
-        "group": "默認",
-        "isActive": true,
-        "status": true,
-        "method": "get"
+        "key": "Ray直播",// 唯一标识
+        "name": "Ray直播",// 名称
+        "url": "https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",// 请求地址
+        "epg": "http://epg.112114.xyz",// pc端zy使用，暂时无用
+        "group": "默認",// 分组
+        "isActive": true,// 是否启用
+        "status": true,// 可用状态
+        "method": "get"// 请求方式，get或post
+    }
+  ]
+```
+> VIP解析源格式
+```json
+[
+  {
+          "key": "纯净",// 唯一标识
+          "name": "纯净",// 名称
+          "url": "https://im1907.top/?jx=",// 解析地址
+          "isActive": true,// 是否启用
+          "type": "web"// 使用方式 web网页 json接口
     }
   ]
 ```
 
-<details>
+> Alist源格式
+```json
+[
+  {
+        "key": "七米蓝",// 唯一标识
+      	"name": "七米蓝",// 名称
+      	"server": "https://al.chirmyram.com",// 请求地址
+      	"startPage": "",// 开始目录
+      	"search": false,// 暂时无用
+      	"headers": null,// 暂时无用
+      	"params": null,// 暂时无用
+      	"isActive": true// 是否启用
+    }
+  ]
+```
+
+> 随性看源格式
+```json
+[
+  {
+        "key": "懒洋洋翻唱",// 唯一标识
+        "name": "懒洋洋翻唱",// 名称
+        "api": "http://www.yujn.cn/api/lyy.php",// 请求地址
+        "isActive": true,// 是否启用
+        "downable": true// 是否允许下载
+    }
+  ]
+```
+
 <summary>截图</summary>
 
 | 登录 （登录可以使用备份功能） | 影视 | 搜索 |
@@ -87,4 +128,3 @@
 | 深色模式 | 我的反馈 | 反馈 |
 | ![添加电视直播源](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-144009.png) | ![我的反馈](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-144049.png) | ![反馈](https://ghproxy.com/https://raw.githubusercontent.com/qallen028/ZyPlayer/main/Screenshot_20230626-144114.png) |
 
- </details>
