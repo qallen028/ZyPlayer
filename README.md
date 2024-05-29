@@ -1,24 +1,19 @@
 <p align="center">
-<img width="128" src="https://raw.githubusercontent.com/qallen028/ZyPlayer/main/logo.png" >
+  <img width="88" src="https://raw.githubusercontent.com/qallen028/ZyPlayer/main/logo.png" >
 </p>
-<h1 align="center">永恒国度</h1>
+<h2 align="center">永恒国度</h2>
 
 ### 备注
 
 源码关联太多的后端部分，同时也不想影响自己的服务器，所以不太方便放出
 
-### 描述
-
-基于 uniapp 开发。
 
 ### 功能
 
-- 平台支持 Android
 - 适配黑暗模式
 - 支持资源站 cms接口 v3App接口 v1App接口
 - 支持直播源 genre m3u
 - 多种播放器 
-- ...
 
 ### 声明
 
